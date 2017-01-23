@@ -1,1 +1,7 @@
 "#Git spurningar og svör"
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd   Skiptir um directory
+	cd ~  Fer á heimasvæði notanda
+	ls  Sýnir allar skrár og möppur í núverandi directory
+	pwd  Prentar hvaða directory notandi er í
+	mkdir  Býr til directory
