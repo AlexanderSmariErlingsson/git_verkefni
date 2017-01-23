@@ -18,3 +18,5 @@
 	a) git diff  Sýnir það sem er búið að breytast en ekki komið í indexinn enn
 	b) git diff --staged  Sýnir það sem er búið að bæta við indexinn en ekki commitað
 	c) git diff commit1 commit2	Sýnir breytingar milli commit1 og commit2
+
+4. Hvað er útgáfustýring (e. version control)?   Umsjón breytinga við skjöl, tölvuforrit, stórar vefsíður og önnur gagnasöfn.
