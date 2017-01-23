@@ -20,3 +20,6 @@
 	c) git diff commit1 commit2	Sýnir breytingar milli commit1 og commit2
 
 4. Hvað er útgáfustýring (e. version control)?   Umsjón breytinga við skjöl, tölvuforrit, stórar vefsíður og önnur gagnasöfn.
+
+5. Hverjir eru helstu kostir við að nota GIT?   Hópvinnumöguleikar.
+
