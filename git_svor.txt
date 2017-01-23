@@ -23,3 +23,4 @@
 
 5. Hverjir eru helstu kostir við að nota GIT?   Hópvinnumöguleikar.
 
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?   Brjálað oft en ekki missa þig, ekki gera það óþarfa erfitt að leita að fyrrverandi verkefni en ekki sóa tíma við að endurgera allt.
