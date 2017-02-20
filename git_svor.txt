@@ -28,3 +28,5 @@
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?   Working directory er directoryið sem notandinn er í,  Staging area (líka þekktur sem index) geymir upplýsingar um næsta commit.  Repository heldur utan um öll project files og geymir það.
 
 8.	Hvenær er sniðugt að nota greinar (branches)?   Til að skipta verkefni upp í búta.
+
+9.	Hver fann upp GIT?  Linus Torvalds.
